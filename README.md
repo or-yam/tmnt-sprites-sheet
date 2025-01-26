@@ -1,5 +1,11 @@
 # Playing with sprites
 
+Sprite animation with "TMNT Turtles in time" game assets
+
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/8c30d334-17ef-4d41-a86f-9506d107cbaf" />
+
+## Use arrow keys to move around
+
 ## Resources
 
 - Image editing tool [ezgif](https://ezgif.com/)
